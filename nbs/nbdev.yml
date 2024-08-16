@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "LLM-Format-Restriction-Study"
+  site-url: "https://Techolution.github.io/LLM-Format-Restriction-Study"
+  description: "LLM Format Restriction Study"
+  repo-branch: main
+  repo-url: "https://github.com/Techolution/LLM-Format-Restriction-Study"
